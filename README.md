@@ -1,4 +1,4 @@
-#millionaires_demo
+# millionaires_demo
 
 ## 概要
 以下URLを参考にした、Rustによるミリオネア問題のデモンストレーション実装
